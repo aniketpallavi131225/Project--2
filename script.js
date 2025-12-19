@@ -1,3 +1,3 @@
-function hello() {
-  alert("Project 2 JS working 🚀");
+function sayHello() {
+  alert("Thanks for visiting my portfolio 😊");
 }
