@@ -1,5 +1,13 @@
-body { font-family: Elephant;
-      text-align: center;
-      background: #f2f3f4; }
-h1 { color: red; }
-h2{color : green;}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f2f3f4;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
