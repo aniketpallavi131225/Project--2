@@ -34,3 +34,32 @@ button {
   border: none;
   border-radius: 5px;
 }
+/* Mobile Responsive */
+@media (max-width: 600px) {
+
+  body {
+    text-align: center;
+  }
+
+  .profile img {
+    width: 100px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  button {
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+  }
+
+  .section {
+    margin: 10px;
+  }
+}
